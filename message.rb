@@ -7,6 +7,3 @@ class MyClass
     puts @var_message
   end
 end
-
-myclass = MyClass.new("Hello Word")
-myclass.show_message
