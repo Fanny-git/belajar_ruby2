@@ -24,3 +24,5 @@ class Segitiga
     return @alas * @tinggi / 2
   end
 end
+
+#semangat belajar
